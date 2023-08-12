@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>7106134300-2vlkhm07d4336tspek75r56oi6bdtr91.apps.googleusercontent.com</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>com.googleusercontent.apps.7106134300-2vlkhm07d4336tspek75r56oi6bdtr91</string>
+		<key>ANDROID_CLIENT_ID</key>
+		<string>7106134300-jl3a800alha28tah3gn93pf77is3rn7e.apps.googleusercontent.com</string>
+		<key>API_KEY</key>
+		<string>AIzaSyD1Egut-o-3rOxjaFvW7YJXFR_9rslByIQ</string>
+		<key>GCM_SENDER_ID</key>
+		<string>7106134300</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>com.brandroom.app</string>
+		<key>PROJECT_ID</key>
+		<string>brandroom-app</string>
+		<key>STORAGE_BUCKET</key>
+		<string>brandroom-app.appspot.com</string>
+		<key>IS_ADS_ENABLED</key>
+		<false></false>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false></false>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true></true>
+		<key>IS_GCM_ENABLED</key>
+		<true></true>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true></true>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:7106134300:ios:340217aec80f39d601bad9</string>
+		<key>DATABASE_URL</key>
+		<string>https://brandroom-app-default-rtdb.europe-west1.firebasedatabase.app</string>
+	</dict>
+</plist>

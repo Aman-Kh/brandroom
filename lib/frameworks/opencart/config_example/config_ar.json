@@ -1,0 +1,126 @@
+{
+    "HorizonLayout": [
+        {
+            "layout": "logo"
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "items": [
+                {
+                    "product": 9237,
+                    "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+                    "padding": 15.0
+                },
+                {
+                    "category": 20,
+                    "image": "https://user-images.githubusercontent.com/1459805/60091575-1f12ca80-976f-11e9-962c-bdccff60d143.png",
+                    "padding": 15.0
+                },
+                {
+                    "category": 18,
+                    "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
+                    "padding": 15.0
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "items": [
+                {
+                    "category": 25,
+                    "image": "https://user-images.githubusercontent.com/1459805/59846820-12672e80-938b-11e9-8fa6-b331b7db331d.png",
+                    "padding": 5.0
+                }
+            ]
+        },
+        {
+            "layout": "bannerImage",
+            "items": [
+                {
+                    "category": 57,
+                    "image": "https://user-images.githubusercontent.com/1459805/59846823-12ffc500-938b-11e9-8d93-65ead3d6b1dd.png",
+                    "padding": 5.0
+                },
+                {
+                    "category": 24,
+                    "image": "https://user-images.githubusercontent.com/1459805/59846824-12ffc500-938b-11e9-8d5a-fc42cb1b7658.png",
+                    "padding": 5.0
+                }
+            ]
+        },
+        {
+            "name": "مجموعات المرأة",
+            "image": "",
+            "layout": "threeColumn",
+            "category": 20
+        },
+        {
+            "name": "مجموعات الرجل",
+            "image": "",
+            "layout": "twoColumn",
+            "category": 18
+        },
+        {
+            "name": "بلوق وظائف",
+            "layout": "blog"
+        }
+    ],
+    "VerticalLayout": {
+        "layout": "pinterest",
+        "name": "مجموعات الرجل",
+        "image": ""
+    },
+    "Setting": {
+        "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list",
+        "StickyHeader": false
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "home",
+            "pos": 100,
+            "fontFamily": "CupertinoIcons",
+            "key": "p1q235ba14"
+        },
+        {
+            "pos": 200,
+            "layout": "category",
+            "icon": "rectangle_grid_1x2",
+            "fontFamily": "CupertinoIcons",
+            "categoryLayout": "card",
+            "key": "hwu0rkrizt"
+        },
+        {
+            "key": "2reihs4qzc",
+            "icon": "search",
+            "layout": "search",
+            "fontFamily": "CupertinoIcons",
+            "pos": 300,
+            "size": 24
+        },
+        {
+            "pos": 400,
+            "icon": "bag",
+            "layout": "cart",
+            "categoryLayout": "cart",
+            "key": "a2xts0oou6",
+            "fontFamily": "CupertinoIcons"
+        },
+        {
+            "layout": "profile",
+            "fontFamily": "CupertinoIcons",
+            "pos": 500,
+            "key": "69jw5yx12d",
+            "icon": "person"
+        }
+    ],
+    "searchSuggestion": [
+        "man",
+        "dress",
+        "Stitch",
+        "ma"
+    ]
+}

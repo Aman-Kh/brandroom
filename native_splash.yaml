@@ -1,0 +1,10 @@
+# Configure this using FluxBuilder.
+# flutter pub run flutter_native_splash:create --path=native_splash.yaml
+flutter_native_splash:
+  web: false
+  color: "#FFFFFF"
+  color_dark: "#FFFFFF"
+  image: assets/images/splashscreen.png
+  branding: assets/images/splashscreen.png
+  image_dark: assets/images/splashscreen.png
+  branding_dark: assets/images/splashscreen.png

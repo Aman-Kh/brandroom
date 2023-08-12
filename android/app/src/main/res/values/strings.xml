@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brand Room</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+
+    <!-- TODO 1.1 - Update Facebook Login Feature (optional) 🧩 -->
+    <string name="facebook_app_id">635055821318123</string>
+    <string name="facebook_client_token">c4636bfe4c1d5412276aed62fc73d195</string>
+    <string name="fb_login_protocol_scheme">fb635055821318123</string>
+
+    <!-- TODO 1.2 - Update Google Map Address (optional) 🧩 -->
+    <string name="api_key">AIzaSyDSNYVC-8DU9BTcyqkeN9c5pgVhwOBAvGg</string>
+
+    <!-- TODO 1.3 - Update Google AdsMod (optional) 🧩 -->
+    <string name="admob_api">ca-app-pub-7432665165146018~2664444130</string>
+</resources>

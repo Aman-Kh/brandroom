@@ -1,0 +1,10 @@
+export 'config/index.dart';
+
+/// Server config demo for opencart
+const serverConfig = {
+  "type": "opencart",
+  "url": "https://opencart-demo.mstore.io",
+  "blog": "https://listeo.inspireui.com",
+  "forgetPassword":
+  "http://opencart-demo.mstore.io/index.php?route=account/forgotten"
+};

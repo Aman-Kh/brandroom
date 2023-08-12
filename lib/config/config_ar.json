@@ -1,0 +1,297 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showSearch": true,
+      "showMenu": true,
+      "showLogo": true,
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "showShortDescription": true,
+      "size": 1.0,
+      "radius": 0.0,
+      "spacing": 12.0,
+      "items": [
+        {
+          "image": "https://images.unsplash.com/photo-1586363090844-099253d6a1cb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=450&q=80",
+          "showText": false,
+          "originalColor": false,
+          "keepDefaultTitle": false,
+          "showDescription": false,
+          "category": 79
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=517&q=80",
+          "showText": false,
+          "category": 109
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1516763296043-f676c1105999?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=526&q=80",
+          "showText": false,
+          "category": 110
+        }
+      ],
+      "line": false,
+      "marginLeft": 10.0,
+      "marginRight": 10.0,
+      "marginTop": 3.0,
+      "marginBottom": 0.0,
+      "pos": 200,
+      "paddingX": 4.0,
+      "paddingY": 8.0,
+      "marginX": 4.0,
+      "marginY": 8.0,
+      "hideTitle": false,
+      "noBackground": false,
+      "imageBorderStyle": "solid",
+      "imageSpacing": 0.0,
+      "labelFontSize": 14.0,
+      "border": 0.5,
+      "enableBorder": true,
+      "textAlignment": "topLeft",
+      "imageBoxFit": "fitWidth",
+      "itemSize": {
+        "width": 453.76947630490764,
+        "height": 91.40432051924712
+      }
+    },
+    {
+      "pos": 300,
+      "layout": "bannerImage",
+      "isSlider": true,
+      "showNumber": false,
+      "autoPlay": false,
+      "items": [
+        {
+          "category": 29,
+          "image": "https://trello-attachments.s3.amazonaws.com/5f8fe6093cd3ef24d9ede5f5/1185x561/e13d41fd04e4da0833097ab4e893c8c5/Mobile_Template_1b.png",
+          "padding": 15
+        },
+        {
+          "category": 28,
+          "image": "https://user-images.githubusercontent.com/1459805/59846818-12672e80-938b-11e9-8184-5f7bfe66f1a2.png",
+          "padding": 15
+        },
+        {
+          "product": 30,
+          "image": "https://user-images.githubusercontent.com/1459805/60091808-a19b8a00-976f-11e9-9cc7-576ca05c2442.png",
+          "padding": 15
+        }
+      ],
+      "showBackGround": true,
+      "design": "default",
+      "radius": 2
+    },
+    {
+      "name": "Flash Sale Today ⚡️",
+      "columns": 0,
+      "enableBottomAddToCart": false,
+      "imageRatio": 1.2,
+      "showCartIconColor": false,
+      "backgroundImage": "https://trello.com/1/cards/6199b77a278ed62ab8bf061d/attachments/6199e995934e467634e67c37/previews/6199e996934e467634e67c46/download/sale.png",
+      "parallaxImageRatio": 1.2,
+      "backgroundHeight": 288,
+      "showCartButton": false,
+      "enableRating": true,
+      "borderRadius": 12,
+      "category": 79,
+      "backgroundColor": "ffffd9e9",
+      "vPadding": 6,
+      "showHeart": true,
+      "spaceWidth": 156.53672329215112,
+      "showQuantity": false,
+      "vMargin": 30,
+      "showOnlyImage": false,
+      "cartIconRadius": 9,
+      "rows": 1,
+      "cardDesign": "card",
+      "hideTitle": false,
+      "pos": 400,
+      "onSale": true,
+      "imageBoxfit": "cover",
+      "image": "",
+      "hPadding": 8,
+      "featured": false,
+      "backgroundBoxFit": "contain",
+      "backgroundRadius": 0,
+      "boxShadow": {
+        "blurRadius": 14,
+        "colorOpacity": 0.1,
+        "spreadRadius": 10,
+        "x": 0,
+        "y": 6
+      },
+      "showCartIcon": false,
+      "hideEmptyProductListRating": false,
+      "parallax": false,
+      "layout": "saleOff",
+      "showCartButtonWithQuantity": false,
+      "hideEmptyProductLayout": false,
+      "showStockStatus": false,
+      "hMargin": 9,
+      "showCountDown": true,
+      "isSnapping": true,
+      "hidePrice": false,
+      "hideStore": false
+    },
+    {
+      "layout": "threeColumn",
+      "isSnapping": false,
+      "rows": 1,
+      "columns": 0,
+      "category": 110,
+      "imageBoxfit": "cover",
+      "imageRatio": 1.2,
+      "hMargin": 6.0,
+      "vMargin": 0.0,
+      "hPadding": 0.0,
+      "vPadding": 0.0,
+      "showStockStatus": true,
+      "enableRating": true,
+      "hideTitle": false,
+      "hideStore": false,
+      "hidePrice": false,
+      "featured": false,
+      "showHeart": false,
+      "showCartButton": false,
+      "cartIconRadius": 9.0,
+      "showQuantity": false,
+      "showCartIconColor": false,
+      "showCartIcon": true,
+      "enableBottomAddToCart": false,
+      "cardDesign": "card",
+      "borderRadius": 3.0,
+      "name": "",
+      "image": "",
+      "backgroundRadius": 10.0,
+      "showCountDown": false,
+      "onSale": false,
+      "hideEmptyProductListRating": false,
+      "showOnlyImage": false,
+      "showCartButtonWithQuantity": false,
+      "parallax": false,
+      "parallaxImageRatio": 1.2,
+      "hideEmptyProductLayout": false,
+      "pos": 500
+    },
+    {
+      "layout": "bannerImage",
+      "design": "static",
+      "marginTop": 20,
+      "pos": 600,
+      "marginRight": 0,
+      "marginLeft": 0,
+      "fit": "fitWidth",
+      "height": 0.15,
+      "items": [
+        {
+          "radius": 9,
+          "padding": 15,
+          "image": "https://trello-attachments.s3.amazonaws.com/5fb8de4a9ffe12204a2a3607/700x263/f5d6007a5563735691c68eb12563d1e5/image.png",
+          "coupon": "blackf"
+        }
+      ],
+      "marginBottom": 0,
+      "isBulk": true
+    },
+    {
+      "layout": "brand",
+      "isBrandNameShown": true,
+      "isLogoCornerRounded": true,
+      "pos": 700,
+      "name": "Our Brands"
+    }
+  ],
+  "Setting": {
+    "FontFamily": "Roboto",
+    "MainColor": "#3FC1BE",
+    "StickyHeader": false,
+    "ProductListLayout": "list",
+    "TabBarConfig": {
+      "enable": true,
+      "isSafeArea": false,
+      "color": "ff1c1d21",
+      "colorCart": "fffe2060",
+      "colorIcon": null,
+      "colorActiveIcon": null,
+      "iconSize": 22.955647901669458,
+      "indicatorStyle": "rectangular",
+      "showFloatingClip": true,
+      "showFloating": false,
+      "enableOnTop": false,
+      "radiusTopLeft": 15.079123349164956,
+      "radiusTopRight": 15.047170605431592,
+      "radiusBottomLeft": 15.03100081501931,
+      "radiusBottomRight": 15.034404981421897,
+      "paddingLeft": 0.0,
+      "paddingRight": 0.0,
+      "paddingBottom": 10.006131677365229,
+      "paddingTop": 9.960136747221199,
+      "marginTop": 0.0,
+      "marginBottom": 14.973564791065872,
+      "marginLeft": 14.976930273759336,
+      "marginRight": 15.012519286150008,
+      "TabBarIndicator": {
+        "height": null,
+        "tabPosition": "bottom",
+        "topRightRadius": 9.138236789907289,
+        "topLeftRadius": 9.266948361796246,
+        "bottomRightRadius": 8.866903346613203,
+        "bottomLeftRadius": 9.173194264700902,
+        "color": "ff22262c",
+        "horizontalPadding": 10.01247069941136,
+        "verticalPadding": null,
+        "strokeWidth": null,
+        "radius": null,
+        "distanceFromCenter": null,
+        "paintingStyle": "fill"
+      },
+      "TabBarFloating": {
+        "position": 0,
+        "radius": null,
+        "color": null,
+        "location": null,
+        "width": null,
+        "height": null,
+        "elevation": null,
+        "floatingType": "rectangle"
+      }
+    },
+    "ShowChat": true,
+    "FontHeader": "Raleway"
+  },
+  "TabBar": [
+    {
+      "icon": "assets/icons/tabs/icon-home.png",
+      "pos": 100,
+      "layout": "home"
+    },
+    {
+      "pos": 200,
+      "icon": "assets/icons/tabs/icon-category.png",
+      "layout": "category",
+      "categoryLayout": "card"
+    },
+    {
+      "pos": 300,
+      "layout": "search",
+      "icon": "assets/icons/tabs/icon-search.png"
+    },
+    {
+      "layout": "cart",
+      "pos": 400,
+      "icon": "assets/icons/tabs/icon-cart2.png"
+    },
+    {
+      "icon": "assets/icons/tabs/icon-user.png",
+      "showChat": true,
+      "pos": 500,
+      "layout": "profile"
+    }
+  ],
+  "AppBar": {}
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "code": "Al-Hasakah Governorate",
+    "name": "الحسكة"
+  },
+  {
+    "code": "Deir ez-Zor Governorate",
+    "name": "دير الزور"
+  },
+  {
+    "code": "Raqqa Governorate",
+    "name": "الرقة"
+  },
+  {
+    "code": "Aleppo Governorate",
+    "name": "حلب"
+  },
+  {
+    "code": "Idlib Governorate",
+    "name": "إدلب"
+  },
+  {
+    "code": "Latakia Governorate",
+    "name": "اللاذقية"
+  },
+  {
+    "code": "Tartus Governorate",
+    "name": "طرطوس"
+  },
+  {
+    "code": "Hama Governorate",
+    "name": "حماة"
+  },
+  {
+    "code": "Homs Governorate",
+    "name": "حمص"
+  },
+  {
+    "code": "Damascus Governorate",
+    "name": "دمشق"
+  },
+  {
+    "code": "As-Suwayda Governorate",
+    "name": "السويداء"
+  },
+  {
+    "code": "Daraa Governorate",
+    "name": "درعا"
+  },
+  {
+    "code": "Quneitra Governorate",
+    "name": "القنيطرة"
+  }
+]

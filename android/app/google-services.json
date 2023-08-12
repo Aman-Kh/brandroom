@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "7106134300",
+    "firebase_url": "https://brandroom-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "brandroom-app",
+    "storage_bucket": "brandroom-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7106134300:android:b73cfd4e6f8e617b01bad9",
+        "android_client_info": {
+          "package_name": "com.brandroom.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7106134300-jl3a800alha28tah3gn93pf77is3rn7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brandroom.app",
+            "certificate_hash": "0994635a92be98c2a450e8ed74193c0463e740ad"
+          }
+        },
+        {
+          "client_id": "7106134300-hdfvmuh0pv72obcslkogh16kfm202i0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLqobr80GU5iq2kx5-uCrmjyendsSvzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7106134300-hdfvmuh0pv72obcslkogh16kfm202i0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "7106134300-2vlkhm07d4336tspek75r56oi6bdtr91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brandroom.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
